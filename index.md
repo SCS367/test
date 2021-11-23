@@ -1,36 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@SCS367 
-mrxur
-/
-home
-Public
-2
-6129
-Code
-Issues
-1
-Pull requests
-Discussions
-Actions
-Projects
-Wiki
-Security
-Insights
-home/index.html
-
-xiaoxu live2d-widget
-Latest commit 2e6b825 on 24 Jul
- History
- 1 contributor
-280 lines (264 sloc)  14.2 KB
-   
-﻿﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="zh">
 
 <head>
@@ -310,16 +278,3 @@ Latest commit 2e6b825 on 24 Jul
 </body>
 
 </html>
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
